@@ -1,0 +1,2 @@
+# BashScript
+Practicas en bash  
